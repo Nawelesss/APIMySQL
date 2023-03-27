@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "algalog-api"
+        }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic"
+    }
+}
